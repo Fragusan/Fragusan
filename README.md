@@ -21,7 +21,7 @@
 ---  
 
 ### Weather-App 
-[<img src="https://github.com/Fragusan/Fragusan/blob/main/img/wheather.gif?raw=true"  align="center"/>] (https://vimeo.com/617010698)
+[<img src="https://github.com/Fragusan/Fragusan/blob/main/img/wheather.gif?raw=true"  align="center"/>](https://vimeo.com/617010698)
 Una SPA que se alimenta de la api de Open Weather (http://openweathermap.org)
 
 ---
