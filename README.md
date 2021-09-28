@@ -14,6 +14,24 @@
     </a>
 </p>
 
+---
+
+## Algunos Proyectos:
+
+---  
+
+### Weather-App 
+Una SPA que se alimenta de la api de Open Weather (http://openweathermap.org)
+
+---
+[<img alt="" src="https://vimeo.com/617010698" />](https://vimeo.com/617010698)
+---
+---
+
+#### Puedes ver un video demostrativo haciendo Click [Aqui](https://vimeo.com/617010698)  
+
+---
+
 <!---
 Fragusan/Fragusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
