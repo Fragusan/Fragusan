@@ -21,7 +21,7 @@
 ---  
 
 ### Weather-App 
-<img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/jasmine.png" width="30" height="30" align="center"/>
+<img src="https://github.com/Fragusan/Fragusan/blob/main/img/wheather.gif?raw=true"  align="center"/>
 Una SPA que se alimenta de la api de Open Weather (http://openweathermap.org)
 
 ---
