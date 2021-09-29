@@ -26,6 +26,7 @@ manera constante para crecer juntos 🚀.
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fragusan&title_color=80ff00&text_color=ffffff&bg_color=000000&locale=es&show_icons=true&icon_color=ffbb00&count_private=true)
 <p align="center">
     <a href="https://github.com/Fragusan">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
