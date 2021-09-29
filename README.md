@@ -1,9 +1,30 @@
-- 👋 Hi, I’m @Fragusan
-- 👀 I’m interested in  everything related to technology, I just love it.
-- 🌱 I’m currently learning the great fundamental pillars of web markup language, html, css and js
-- 💞️ I’m looking to collaborate on ... (I'm still learning, maybe later I will be able to fill in this field Github 🤭)
-- 📫 Find me on social media <b> @Fragusan </b>
 
+---
+<p align="center">
+Buenas 😁! Me llamo 𝙁𝙧𝙖𝙣𝙘𝙤 𝙎𝙖𝙣𝙘𝙝𝙚𝙯, desde siempre fui un curioso apasionado 🤓, con ambiciones de aprendizajes y un fanatismo por los dispositivos electrónicos y la lógica computacional.
+
+Actualmente cuento con competencias en diferentes lenguajes y tecnologías orientadas al desarrollo
+web, sumadas a las habilidades psicosociales que me brindó la docencia.
+
+Me encuentro en búsqueda de vacantes que alineando nuestros objetivos, me brinden oportunidad
+de crecimiento 🌱, permitan desplegar mi creatividad ✨, incentiven al desarrollo y aprendizaje de
+manera constante para crecer juntos 🚀.
+</p>
+<img src="https://github.com/Fragusan/Fragusan/blob/main/img/banner.png?raw=true" align="center"/>
+
+---
+
+>## Tecnologías:
+>
+> - Express
+> - JavaScript
+> - Node.js
+> - React
+> - Redux
+> - PostgreSQL.
+>
+
+---
 
 <p align="center">
     <a href="https://github.com/Fragusan">
@@ -18,26 +39,31 @@
 
 # Algunos Proyectos:
 
+## DogApp
+[<img src="https://github.com/Fragusan/Fragusan/blob/main/img/dogApp.gif?raw=true"  align="center"/>](https://vimeo.com/617536204)
 ---
-### DogApp
-[<img src="https://github.com/Fragusan/Fragusan/blob/main/img/dogApp.gif?raw=true"  align="center"/>](https://vimeo.com/manage/videos/617536204)
----
-Una **SPA**(single page application) haciendo uso del *stack PERN* (PostgreSQL, Express, React & Node.js) como proyecto de presentación.
-- **Front end**
-React para maquetar los diferentes componentes y Redux para el manejo de estados globales. Los requerimientos exigian que los estilos se llevaran a cabo con CSS sin agregados de librerias de terceros.
-- **Back end**
-Se consume una API externa (https://thedogapi.com/) agregando funcionalidades usando Node.js con la libreria de Express para el manejo de las peticiones HTTP.
- - **Base de Datos**
- Se puede añadir nuevas razas de perros a la app. Para esto utilize PostgreSQL para gestionar la db y Sequelize como ORM
+Una **SPA**(single page application) haciendo uso del *stack PERN* (PostgreSQL, Express, React & Node.js) Este proyecto es evaluativo como parte del trayecto de formacion del bootcamp de [Henry](https://www.soyhenry.com/).
 
+- **Front end**:
+Use **React** para maquetar los diferentes componentes y **Redux** para el manejo de estados globales. Los requerimientos exigian que los estilos se llevaran a cabo con CSS sin agregados de librerias de terceros.
+
+- **Back end**:
+Se consume una [API externa ](https://thedogapi.com/) agregando funcionalidades usando **Node.js** con la libreria de **Express** para el manejo de las peticiones HTTP.
+
+ - **Base de Datos**:
+ Se puede añadir nuevas razas de perros a la app. Para esto utilize **PostgreSQL** para gestionar la db y **Sequelize** como ORM
+
+>#### Puedes ver un video demostrativo haciendo Click [Aqui](https://vimeo.com/617536204)  
 ---  
 
-### Weather-App 
+## Weather-App 
 [<img src="https://github.com/Fragusan/Fragusan/blob/main/img/wheather.gif?raw=true"  align="center"/>](https://vimeo.com/617010698)
 ---
-Una SPA que se alimenta de la api de Open Weather (http://openweathermap.org)
 
-#### Puedes ver un video demostrativo haciendo Click [Aqui](https://vimeo.com/617010698)  
+Una **SPA** que se alimenta de la api de [*Open Weather*](http://openweathermap.org).
+Es una pequeña y sencilla aplicacion utilizando conceptos basicos del manejo de **React** y CSS.
+
+>#### Puedes ver un video demostrativo haciendo Click [Aqui](https://vimeo.com/617010698)  
 
 ---
 
