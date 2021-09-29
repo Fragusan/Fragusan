@@ -1,7 +1,8 @@
 
 ---
 <p align="center">
-Buenas 😁! Me llamo 𝙁𝙧𝙖𝙣𝙘𝙤 𝙎𝙖𝙣𝙘𝙝𝙚𝙯, desde siempre fui un curioso apasionado 🤓, con ambiciones de aprendizajes y un fanatismo por los dispositivos electrónicos y la lógica computacional.
+Bienvenido a mi perfil de Github
+Me llamo 𝙁𝙧𝙖𝙣𝙘𝙤 𝙎𝙖𝙣𝙘𝙝𝙚𝙯, desde siempre fui un curioso apasionado 🤓, con ambiciones de aprendizajes y un fanatismo por los dispositivos electrónicos y la lógica computacional.
 
 Actualmente cuento con competencias en diferentes lenguajes y tecnologías orientadas al desarrollo
 web, sumadas a las habilidades psicosociales que me brindó la docencia.
