@@ -16,7 +16,19 @@
 
 ---
 
-## Algunos Proyectos:
+# Algunos Proyectos:
+
+---
+### DogApp
+[<img src="https://github.com/Fragusan/Fragusan/blob/main/img/dogApp.gif?raw=true"  align="center"/>](https://vimeo.com/manage/videos/617536204)
+---
+Una **SPA**(single page application) haciendo uso del *stack PERN* (PostgreSQL, Express, React & Node.js) como proyecto de presentación.
+- **Front end**
+React para maquetar los diferentes componentes y Redux para el manejo de estados globales. Los requerimientos exigian que los estilos se llevaran a cabo con CSS sin agregados de librerias de terceros.
+- **Back end**
+Se consume una API externa (https://thedogapi.com/) agregando funcionalidades usando Node.js con la libreria de Express para el manejo de las peticiones HTTP.
+ - **Base de Datos**
+ Se puede añadir nuevas razas de perros a la app. Para esto utilize PostgreSQL para gestionar la db y Sequelize como ORM
 
 ---  
 
