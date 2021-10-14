@@ -1,15 +1,19 @@
 
 ---
 <p align="center">
-Bienvenido a mi perfil de Github
-Me llamo 𝙁𝙧𝙖𝙣𝙘𝙤 𝙎𝙖𝙣𝙘𝙝𝙚𝙯, desde siempre fui un curioso apasionado 🤓, con ambiciones de aprendizajes y un fanatismo por los dispositivos electrónicos y la lógica computacional.
+╔════════════════════════════════════════════════════════════════════════════════════════════╗
+Buenas 😁! Me llamo 𝙁𝙧𝙖𝙣𝙘𝙤 𝙎𝙖𝙣𝙘𝙝𝙚𝙯, desde siempre fui un curioso apasionado 🤓, con ambiciones
+de aprendizajes y un fanatismo por los dispositivos electrónicos y la lógica computacional.
 
-Actualmente cuento con competencias en diferentes lenguajes y tecnologías orientadas al desarrollo
-web, sumadas a las habilidades psicosociales que me brindó la docencia.
+Cuento con competencias en diferentes lenguajes y tecnologías orientadas al desarrollo
+web, sumadas a las habilidades psicosociales que me brindó la docencia en el área de matemáticas ( empatía del entorno, gestionar tareas de grupos numerosos, objetividad, asertividad, escucha activa, entre otras)
 
 Me encuentro en búsqueda de vacantes que alineando nuestros objetivos, me brinden oportunidad
 de crecimiento 🌱, permitan desplegar mi creatividad ✨, incentiven al desarrollo y aprendizaje de
 manera constante para crecer juntos 🚀.
+
+Si crees que poseo lo que estas buscando, o simplemente para saludar, no dudes en contactarme 🤗
+╚════════════════════════════════════════════════════════════════════════════════════════════╝
 </p>
 <img src="https://github.com/Fragusan/Fragusan/blob/main/img/banner.png?raw=true" align="center"/>
 
