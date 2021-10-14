@@ -1,7 +1,7 @@
 
 ---
 <p align="center">
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
+
 Buenas 😁! Me llamo 𝙁𝙧𝙖𝙣𝙘𝙤 𝙎𝙖𝙣𝙘𝙝𝙚𝙯, desde siempre fui un curioso apasionado 🤓, con ambiciones
 de aprendizajes y un fanatismo por los dispositivos electrónicos y la lógica computacional.
 
@@ -13,7 +13,7 @@ de crecimiento 🌱, permitan desplegar mi creatividad ✨, incentiven al desarr
 manera constante para crecer juntos 🚀.
 
 Si crees que poseo lo que estas buscando, o simplemente para saludar, no dudes en contactarme 🤗
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
+
 </p>
 <img src="https://github.com/Fragusan/Fragusan/blob/main/img/banner.png?raw=true" align="center"/>
 
