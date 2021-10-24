@@ -21,12 +21,12 @@ Si crees que poseo lo que estas buscando, o simplemente para saludar, no dudes e
 
 >## Tecnologías:
 >
-> - Express
+> 
 > - JavaScript
-> - Node.js
+> - Node.js / Express
 > - React
 > - Redux
-> - PostgreSQL.
+> - PostgreSQL / Sequelize
 >
 
 ---
