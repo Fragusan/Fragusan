@@ -33,7 +33,8 @@ Si crees que poseo lo que estas buscando, o simplemente para saludar, no dudes e
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fragusan&title_color=80ff00&text_color=ffffff&bg_color=000000&locale=es&show_icons=true&icon_color=ffbb00&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragusan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragusan&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
     <a href="https://github.com/Fragusan">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
