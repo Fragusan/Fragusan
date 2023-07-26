@@ -24,6 +24,8 @@ Si crees que poseo lo que estas buscando, o simplemente para saludar, no dudes e
 > 
 > - JavaScript
 > - Node.js / Express
+> - PHP
+> - Java
 > - React
 > - Redux
 > - PostgreSQL / Sequelize
